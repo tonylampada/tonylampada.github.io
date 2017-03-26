@@ -68,7 +68,9 @@ Computer Engineering, graduated in 2003
 
 ## 7. Work Experience
 
-### Independent consulting (20% part time, since Jan/2016)
+Note: Some jobs below overlap over time, specially over the past 3 years. That's not a mistake with the dates - lately I've been dividing my time between different clients.
+
+### **Independent consulting** (20% part time, since Jan/2017)
 Some consulting here and there, on web development and devops
 
 **Consultant**: I'm helping companies set up their continuous integration / deployment pipeline, improve their infrascture to make them scalable, refactor their development environments to be more efficient, etc. Companies I helped so far: [Jetsoft](http://www.jetsoft.com.br/), [Moneto](https://www.moneto.com.br/), [Quero bolsa](https://querobolsa.com.br/)
@@ -78,7 +80,7 @@ Machine-learning-based products and services for decision making.
 
 **Chief Architect, Platforms**: STA uses artificial intelligence, geoprocessing and data science to solve hard problems that traditional IT companies cannot.
 Like, use historical data for climate and satellite pictures to predict how much sugar cane will be obtained in the next crop.
-I did learn a little bit of machine learning, data science and statistics, but my main work here is to build the platforms where complex, computational-intensive alghorithms run, and also provide an web-interfaces where clients can get the results they need.
+I did learn a little bit of machine learning, data science and statistics, but my main work here is to build the platforms where complex, computational-intensive alghorithms run, and also provide web-interfaces where clients can get the results they need.
 
 ### [Lance Ótimo](http://lanceotimo.com) (20% part-time, since Jun/2015)
 Bid management platform for Google AdWords advertisers
