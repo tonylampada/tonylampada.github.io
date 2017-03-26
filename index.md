@@ -5,7 +5,7 @@ A very experienced *almost* full-stack web-developer.
 > **Note**: Are you looking at a printed (or PDF) version of this resume? 
 > Please use the online version at [tonylampada.github.io](https://tonylampada.github.io). It's likely to be more up-to-date and there are a bunch of external links.
 
-## -- **Things that matter more**
+## -- Things that matter more
 
 ## 0. Contact info and online profiles
 
@@ -54,9 +54,10 @@ I'm passionate about open source, and that led me to create [freedomsponsors.org
 * [Djangular3](https://github.com/tonylampada/djangular3) - A reusable web-project template using Django and AngularJS (README is in portuguese, but there's a [setup instructions video](https://www.youtube.com/watch?v=okWBei-rK_A&feature=youtu.be) in english as well)
 * [tlvuestarter](https://github.com/tonylampada/tlvuestarter) - A [Vue.js](https://vuejs.org/) starter template, featuring [mock-apis](https://medium.com/@tonylampada/javascript-mock-api-why-you-might-want-to-have-one-232b3ba46b12#.x73b44qmt) and a [component catalog](https://medium.com/@tonylampada/component-catalog-why-you-might-want-to-have-one-72ee1dc1f6b1#.nt4v0zen0).
 * [webgl_graphs](http://tonylampada.github.io/webgl_graphs/) - Playing with webgl (3D rendering in the browser). This toy-tool lets you see graphs in 3D that obey simple attraction/repulsion rules.
+* [Dicas do Lampada](https://dicasdolampada.wordpress.com/) - My tech blog
 * [Javascript for grownups](https://www.youtube.com/watch?v=iabZob_YEKg&t=13m40s) - Recording of a 3h webinar teaching javascript to random people from different parts of the world.
 
-## -- **Traditional stuff**
+## -- Traditional stuff
 
 ## 6. Education
 
