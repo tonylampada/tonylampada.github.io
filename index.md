@@ -68,6 +68,36 @@ Computer Engineering, graduated in 2003
 
 ## 7. Work Experience
 
+### Independent consulting (20% part time, since Jan/2016)
+Some consulting here and there, on web development and devops
+
+**Consultant**: I'm helping companies set up their continuous integration / deployment pipeline, improve their infrascture to make them scalable, refactor their development environments to be more efficient, etc. Companies I helped so far: [Jetsoft](http://www.jetsoft.com.br/), [Moneto](https://www.moneto.com.br/), [Quero bolsa](https://querobolsa.com.br/)
+
+### [STA - Spacetime Analytics](http://spacetimeanalytics.com) (60% part time, since Mai/2016)
+Machine-learning-based products and services for decision making.
+
+**Chief Architect, Platforms**: STA uses artificial intelligence, geoprocessing and data science to solve hard problems that traditional IT companies cannot.
+Like, use historical data for climate and satellite pictures to predict how much sugar cane will be obtained in the next crop.
+I did learn a little bit of machine learning, data science and statistics, but my main work here is to build the platforms where complex, computational-intensive alghorithms run, and also provide an web-interfaces where clients can get the results they need.
+
+### [Lance Ótimo](http://lanceotimo.com) (20% part-time, since Jun/2015)
+Bid management platform for Google AdWords advertisers
+
+**CTO/Developer**: My friend and now associate Rafael was already helping clients with Google Adwords optimization and, at first, using excel spreadsheets was fine.
+He anticipated that his business was going to grow and that was when he invited me to help "productizing" his process in the form of a web platform.
+I jumped in, he learned Python and reimplemented all of his spreadsheets in python scripts. I put it all together inside a web application that clients can now use to tweak parameters and get reports that provide marketing insights.
+
+Lance Ótimo runs on Python, Django, Postgres, AWS, Celery, and AngularJS.
+
+### [ng-masters](http://ng-masters.com/) (mai/2014 - oct/2015)
+AngularJS online Training Course - a successful weekend project
+
+**Instructor**: During my work using AngularJS in QMágico, I liked it so much that I decided I wanted to teach more people about it and as a result ng-masters was born.
+NG-masters was a 16h online course spread across 4 online webinars that happened on saturday or monday mornings. 
+A month before each cohort started I would phone everyone that had registered on the website, and tried to understand better their problems, their context, and how (and if) the course would be useful for them. It was an amazing experience.
+
+With ng-masters I had the privilege of touching the lives of ~120 people during 5 cohorts, and I still feel I learned more than I taught.
+
 ### [QMágico](http://qmagico.com.br) (apr/2013 - dec/2016)
 TechEd startup - São José dos Campos 
 
