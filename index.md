@@ -45,7 +45,7 @@ Last but not least, I'm a 35 husband and father of a little boy called Thomas.
 
 ## 2. What I can do
 
-* I can do other things but I have worked most of my life with web development (and some devops more recently). My favorite stack for webdev is Postgres, AWS, Docker, Python, Django and AngularJS (1.x) or VueJs.
+* I can do other things but I have worked most of my life with web development (and some devops more recently). My favorite stack for webdev is Postgres, AWS, Docker, Python, Django and AngularJS (1.x) or VueJs.g
 * I can put together modern web applications and **scalably** deploy them - in an automated fashion - to production environments in the cloud with **zero downtime**.
 * I can organize the development proccess for your team, and apply the right tools to make development and breeze both for front-end and back-end.
 * I can design and understand business processes, and I can *help* with project management and bring a set of management best practices that tends to make everyone deliver better results consistently.
