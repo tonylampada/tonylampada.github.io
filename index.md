@@ -4,23 +4,8 @@ A very experienced *almost* full-stack web-developer.
 
 > **Note**: Are you looking at a printed (or PDF) version of this resume? 
 > Please use the online version at [tonylampada.github.io](https://tonylampada.github.io). It's likely to be more up-to-date and there are a bunch of external links.
-
-## Index
-
-**Things that matter more**
-
-0. [Contact Info and online profiles](#0-contact-info-and-online-profiles)
-1. [Who am I](#1-who-am-i)
-2. [What I can do](#2-what-i-can-do)
-3. [What I can't do](#3-what-i-cant-do)
-4. [What do I like](#4-what-do-i-like)
-5. [Things I did that you can see online]()
-
-**Traditional stuff**
-
-6. [Education]()
-7. [Work experience]()
-
+Jj
+## Things that matter more
 
 ## 0. Contact info and online profiles
 
@@ -70,6 +55,8 @@ I'm passionate about open source, and that led me to create [freedomsponsors.org
 * [tlvuestarter](https://github.com/tonylampada/tlvuestarter) - A [Vue.js](https://vuejs.org/) starter template, featuring [mock-apis](https://medium.com/@tonylampada/javascript-mock-api-why-you-might-want-to-have-one-232b3ba46b12#.x73b44qmt) and a [component catalog](https://medium.com/@tonylampada/component-catalog-why-you-might-want-to-have-one-72ee1dc1f6b1#.nt4v0zen0).
 * [webgl_graphs](http://tonylampada.github.io/webgl_graphs/) - Playing with webgl (3D rendering in the browser). This toy-tool lets you see graphs in 3D that obey simple attraction/repulsion rules.
 * [Javascript for grownups](https://www.youtube.com/watch?v=iabZob_YEKg&t=13m40s) - Recording of a 3h webinar teaching javascript to random people from different parts of the world.
+
+## Traditional stuff
 
 ## 6. Education
 
