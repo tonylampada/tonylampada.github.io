@@ -4,8 +4,8 @@ A very experienced *almost* full-stack web-developer.
 
 > **Note**: Are you looking at a printed (or PDF) version of this resume? 
 > Please use the online version at [tonylampada.github.io](https://tonylampada.github.io). It's likely to be more up-to-date and there are a bunch of external links.
-Jj
-## Things that matter more
+
+## -- Things that matter more
 
 ## 0. Contact info and online profiles
 
@@ -56,7 +56,7 @@ I'm passionate about open source, and that led me to create [freedomsponsors.org
 * [webgl_graphs](http://tonylampada.github.io/webgl_graphs/) - Playing with webgl (3D rendering in the browser). This toy-tool lets you see graphs in 3D that obey simple attraction/repulsion rules.
 * [Javascript for grownups](https://www.youtube.com/watch?v=iabZob_YEKg&t=13m40s) - Recording of a 3h webinar teaching javascript to random people from different parts of the world.
 
-## Traditional stuff
+## -- Traditional stuff
 
 ## 6. Education
 
