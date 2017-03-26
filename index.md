@@ -12,7 +12,7 @@ Please use the online version at [tonylampada.github.io](https://tonylampada.git
 ## 0. Contact info and online profiles
 
 * email: tonylampada@gmail.com
-* Phone number / Whatsapp / Telegram: +55 12 981440013
+* Phone number / **Whatsapp** * / Telegram: +55 12 981440013
 * [Facebook](http://facebook.com/tonylampada)
 * [Github](https://github.com/tonylampada)
 * [Stack Overflow](http://stackoverflow.com/users/627684/tony-l%C3%A2mpada)
@@ -20,6 +20,8 @@ Please use the online version at [tonylampada.github.io](https://tonylampada.git
 * [Wordpress](https://dicasdolampada.wordpress.com/)
 * [Youtube](https://www.youtube.com/channel/UCOnW_nxKxwXOS-KPuv2YEKA/playlists)
 * [Toptal](https://www.toptal.com/resume/tony-calleri-franca) (freelancer marketplace)
+
+Note: If you want a quick answer, **Whatsapp** is the way to go.
 
 ## 1. Who am I
 
@@ -57,6 +59,7 @@ I'm passionate about open source, and that led me to create [freedomsponsors.org
 * [tlvuestarter](https://github.com/tonylampada/tlvuestarter) - A [Vue.js](https://vuejs.org/) starter template, featuring [mock-apis](https://medium.com/@tonylampada/javascript-mock-api-why-you-might-want-to-have-one-232b3ba46b12#.x73b44qmt) and a [component catalog](https://medium.com/@tonylampada/component-catalog-why-you-might-want-to-have-one-72ee1dc1f6b1#.nt4v0zen0).
 * [webgl_graphs](http://tonylampada.github.io/webgl_graphs/) - Playing with webgl (3D rendering in the browser). This toy-tool lets you see graphs in 3D that obey simple attraction/repulsion rules.
 * [Dicas do Lampada](https://dicasdolampada.wordpress.com/) - My tech blog
+* [My youtube videos](https://www.youtube.com/channel/UCOnW_nxKxwXOS-KPuv2YEKA/playlists) - Mostly webdev-related screencast tutorials
 * [Javascript for grownups](https://www.youtube.com/watch?v=iabZob_YEKg&t=13m40s) - Recording of a 3h webinar teaching javascript to random people from different parts of the world.
 
 ## -- Traditional stuff
@@ -69,6 +72,7 @@ Computer Engineering, graduated in 2003
 ## 7. Work Experience
 
 Note: Some jobs below overlap over time, specially over the past 3 years. That's not a mistake with the dates - lately I've been dividing my time between different clients.
+TODO: Add a picture with a horizontal timeline of jobs - this is starting to get hard to visualize.
 
 ### **Independent consulting** (20% part time, since Jan/2017)
 Some consulting here and there, on web development and devops
