@@ -1,4 +1,4 @@
-[gimmick:theme](slate)
+[gimmick:theme](simplex)
 
 # Resume - Tony Calleri França
 
