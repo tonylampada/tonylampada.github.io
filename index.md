@@ -1,3 +1,5 @@
+[gimmick:theme](flatly)
+
 # Resume - Tony Calleri França
 
 A very experienced *almost* full-stack web-developer.
