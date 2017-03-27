@@ -36,7 +36,7 @@ Last but not least, I'm a 35 husband and father of a little boy called Thomas.
 
 * I can do other things but I have worked most of my life with web development (and some devops more recently). My favorite stack for webdev is Postgres, AWS, Docker, Python, Django and AngularJS (1.x) or VueJs.
 * I can put together modern web applications and **scalably** deploy them - in an automated fashion - to production environments in the cloud with **zero downtime**.
-* I can organize the development proccess for your team, and apply the right tools to make development and breeze both for front-end and back-end.
+* I can organize the development proccess for your team, and apply the right tools to make development a breeze both for front-end and back-end.
 * I can design and understand business processes, and I can *help* with project management and bring a set of management best practices that tends to make everyone deliver better results consistently.
 * I can teach/train people on back-end and front-end development and devops tools and practices and I try my best motivate and influence people to be better programmers.
 * I've also done some recent work with machine learning and data science. I'm not nearly as good with that as with web development, but I think there's good potential on that area for me too.
