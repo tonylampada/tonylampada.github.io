@@ -30,11 +30,11 @@ So if you're ever in a pinch and need some tech advice or help, feel free to fin
 
 I'm easy to work with. I take my job very seriously but I prefer to work in more relaxed and playful environments, and I do what I can to provide that kind of environment to people who work with me.
 
-Last but not least, I'm a 35 husband and father of a little boy called Thomas.
+Last but not least, I'm a husband and father of an awesome couple of boys.
 
 ## 2. What I can do
 
-* I can do other things but I have worked most of my life with web development (and some devops more recently). My favorite stack for webdev is Postgres, AWS, Docker, Python, Django and AngularJS (1.x) or VueJs.
+* I can do other things but I have worked most of my life with web development (and some devops more recently). My favorite stack for webdev is Postgres, AWS, Docker, Python, Django and Vue.js.
 * I can put together modern web applications and **scalably** deploy them - in an automated fashion - to production environments in the cloud with **zero downtime**.
 * I can organize the development proccess for your team, and apply the right tools to make development a breeze both for front-end and back-end.
 * I can design and understand business processes, and I can *help* with project management and bring a set of management best practices that tends to make everyone deliver better results consistently.
@@ -73,6 +73,14 @@ Computer Engineering, graduated in 2003
 
 Note: Some jobs below overlap over time, specially over the past 3 years. That's not a mistake with the dates - lately I've been dividing my time between different clients.
 TODO: Add a picture with a horizontal timeline of jobs - this is starting to get hard to visualize.
+
+### [Buser](https://buser.com.br) (since Dec/2017)
+Bus travel mobile app
+
+**CTO/Developer**: Buser helps people travel by bus with twice the confort by half the price.
+I designed and helped implement this system from the ground up, put together the continuous delivery system and helped recruit and train the tech staff who work with me today. We're all absolutely thrilled about the opportunity to change the landscape of intercity bus travel in Brazil.
+Buser runs on Python, Django, Postgres, AWS, Celery, Vue.js and Nuxt.js.
+
 
 ### **Independent consulting** (20% part time, since Jan/2017)
 Some consulting here and there, on web development and devops
