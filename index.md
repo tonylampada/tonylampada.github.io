@@ -2,7 +2,8 @@
 
 # Resume - Tony Calleri França
 
-A very experienced *almost* full-stack web-developer.
+Very experienced software engineer and web developer. 
+Great at leading, good at managing.
 
 **Note**: Are you looking at a printed (or PDF) version of this resume? 
 Please use the online version at [tonylampada.github.io](https://tonylampada.github.io). It's likely to be more up-to-date and there are a bunch of external links.
@@ -34,12 +35,11 @@ Last but not least, I'm a husband and father of an awesome couple of boys.
 
 ## 2. What I can do
 
-* I can do other things but I have worked most of my life with web development (and some devops more recently). My favorite stack for webdev is Postgres, AWS, Docker, Python, Django and Vue.js.
+* I can do other things but I have worked most of my life with web development and devops. My favorite stack for webdev is Postgres, AWS, Docker, Python, Django and Vue.js.
 * I can put together modern web applications and **scalably** deploy them - in an automated fashion - to production environments in the cloud with **zero downtime**.
 * I can organize the development proccess for your team, and apply the right tools to make development a breeze both for front-end and back-end.
 * I can design and understand business processes, and I can *help* with project management and bring a set of management best practices that tends to make everyone deliver better results consistently.
-* I can teach/train people on back-end and front-end development and devops tools and practices and I try my best motivate and influence people to be better programmers.
-* I've also done some recent work with machine learning and data science. I'm not nearly as good with that as with web development, but I think there's good potential on that area for me too.
+* I can (and love to) teach/train people on back-end and front-end development and devops tools and practices and I try my best motivate and influence people to be better programmers.
 
 ## 3. What I can't do
 
@@ -48,18 +48,19 @@ Last but not least, I'm a husband and father of an awesome couple of boys.
 
 ## 4. What do I like
 
-I believe software is **a form of art** and I care a lot for the "inner quality" of the software I build. Things like unit testing, good architecture, well-designed APIs matter a lot to me.
+I believe software is **a form of art** and I care a lot for the **inner quality** of the software I build. Things like unit testing, good architecture, well-designed APIs matter a lot to me.
 
-I'm passionate about open source, and that led me to create [freedomsponsors.org](http://freedomsponsors.org). I wish I had more time to dedicate to FS and open source in general.
+I'm passionate about open source, and education in technology.
 
 ## 5. Things I did that you can see online
 
-* [Freedomsponsors](https://freedomsponsors.org) - A crowdfunding platform for Free and Open Source software.
+* [Evolutio](https://evolutio.io) - A website with free educational content for anyone who wants to learn to code.
 * [Djangular3](https://github.com/tonylampada/djangular3) - A reusable web-project template using Django and AngularJS (README is in portuguese, but there's a [setup instructions video](https://www.youtube.com/watch?v=okWBei-rK_A&feature=youtu.be) in english as well)
+* [Djavue](https://github.com/tonylampada/djavue2) - Same as above, but with Django and Vue.js (pun intended :P). This served as the foundation on top of which [Buser](https://www.buser.com.br) technology was built. The corresponding [Djavue course on evolutio](https://evolutio.io/curso/djavue) has been used for training developers ever since. 
 * [tlvuestarter](https://github.com/tonylampada/tlvuestarter) - A [Vue.js](https://vuejs.org/) starter template, featuring [mock-apis](https://medium.com/@tonylampada/javascript-mock-api-why-you-might-want-to-have-one-232b3ba46b12#.x73b44qmt) and a [component catalog](https://medium.com/@tonylampada/component-catalog-why-you-might-want-to-have-one-72ee1dc1f6b1#.nt4v0zen0).
 * [webgl_graphs](http://tonylampada.github.io/webgl_graphs/) - Playing with webgl (3D rendering in the browser). This toy-tool lets you see graphs in 3D that obey simple attraction/repulsion rules.
 * [Dicas do Lampada](https://dicasdolampada.wordpress.com/) - My tech blog
-* [My youtube videos](https://www.youtube.com/channel/UCOnW_nxKxwXOS-KPuv2YEKA/playlists) - Mostly webdev-related screencast tutorials
+* [My youtube channel](https://www.youtube.com/channel/UCOnW_nxKxwXOS-KPuv2YEKA/playlists) - Mostly webdev-related screencast tutorials
 * [Javascript for grownups](https://www.youtube.com/watch?v=iabZob_YEKg&t=13m40s) - Recording of a 3h webinar teaching javascript to random people from different parts of the world.
 
 ## -- Traditional stuff
@@ -75,12 +76,12 @@ Note: Some jobs below overlap over time, specially over the past 3 years. That's
 TODO: Add a picture with a horizontal timeline of jobs - this is starting to get hard to visualize.
 
 ### [Buser](https://buser.com.br) (since Dec/2017)
-Bus travel mobile app
+Bus travel mobile app. Helping people travel by half the price or with twice the comfort. Changing the landscape of intercity bus travel in Brazil.
 
-**CTO/Developer**: Buser helps people travel by bus with twice the confort by half the price.
-I designed and helped implement this system from the ground up, put together the continuous delivery system and helped recruit and train the tech staff who work with me today. We're all absolutely thrilled about the opportunity to change the landscape of intercity bus travel in Brazil.
-Buser runs on Python, Django, Postgres, AWS, Celery, Vue.js and Nuxt.js.
+**CTO and Principal Engineer**: I was the first person hired by the founders. My mission was to build the first version of Buser's website to sell tickets online. I used Django, Vue.js, AWS, a continuous delivery pipeline with Gitlab. 100% inside my comfort zone. That part was a piece of cake. But the easy part ends there.
+Buser's rapid growth demanded that I quickly learned a new set of skills way far from what my career had prepared me for. Hiring people. Building teams. Training people. Managing people and projects. Negotiating with different stakeholders in an ever more complex environment. Then re-learn to do all that again, but remotely, because of COVID. And all that while building and mantaining a strong engineering culture of **autonomy and responsibility** - encouraging people to act and see themselves as "problem solver first, programmer later". Being Buser's CTO was the wildest ride on my career, and our engineering culture is an accomplishment I take most pride in.
 
+In may/2022 (Buser had ~550 people, ~140 in technology) I [decided to step down as Buser's CTO](https://www.linkedin.com/pulse/vida-longa-ao-cto-tony-lampada/?trackingId=XcO0rzL%2Fz5apjfn8uB9D9Q%3D%3D) in order to reconnect with my natural vocation and competence. This was only possible because my good friend [Thiago Avelino](https://www.linkedin.com/in/avelinorun/) accepted the challenge of being the executive leader that Buser needs at this time. As a principal engineer, my new mission is to help tech teams improve themselves and build great software - which is exactly what I love doing.
 
 ### **Independent consulting** (20% part time, since Jan/2017)
 Some consulting here and there, on web development and devops
