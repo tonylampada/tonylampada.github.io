@@ -2,8 +2,12 @@
 
 # Resume - Tony Calleri França
 
+```python
+'''
 Very experienced software engineer and web developer. 
 Great at leading, good at managing.
+'''
+```
 
 **Note**: Are you looking at a printed (or PDF) version of this resume? 
 Please use the online version at [tonylampada.github.io](https://tonylampada.github.io). It's likely to be more up-to-date and there are a bunch of external links.
