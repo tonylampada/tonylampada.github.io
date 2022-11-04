@@ -72,8 +72,7 @@ Computer Engineering, graduated in 2003
 
 ## 7. Work Experience
 
-Note: Some jobs below overlap over time, specially over the past 3 years. That's not a mistake with the dates - lately I've been dividing my time between different clients.
-TODO: Add a picture with a horizontal timeline of jobs - this is starting to get hard to visualize.
+Note: Some jobs below overlap over time, between 2016-2019. That was a period when I was dividing my week days among different clients. 
 
 ### [Buser](https://buser.com.br) (since Dec/2017)
 Bus travel mobile app. Helping people travel by half the price or with twice the comfort. Changing the landscape of intercity bus travel in Brazil.
@@ -83,22 +82,22 @@ Buser's rapid growth demanded that I quickly learned a new set of skills way far
 
 In may/2022 (Buser had ~550 people, ~140 in technology) I [decided to step down as Buser's CTO](https://www.linkedin.com/pulse/vida-longa-ao-cto-tony-lampada/?trackingId=XcO0rzL%2Fz5apjfn8uB9D9Q%3D%3D) in order to reconnect with my natural vocation and competence. This was only possible because my good friend [Thiago Avelino](https://www.linkedin.com/in/avelinorun/) accepted the challenge of being the executive leader that Buser needs at this time. As a principal engineer, my new mission is to help tech teams improve themselves and build great software - which is exactly what I love doing.
 
-### **Independent consulting** (20% part time, since Jan/2017)
+### **Independent consulting** (part time, jan/2017 - dec/2018)
 Some consulting here and there, on web development and devops
 
 **Consultant**: I'm helping companies set up their continuous integration / deployment pipeline, improve their infrascture to make them scalable, refactor their development environments to be more efficient, etc. Companies I helped so far: [Jetsoft](http://www.jetsoft.com.br/), [Moneto](https://www.moneto.com.br/), [Quero bolsa](https://querobolsa.com.br/)
 
-### [STA - Spacetime Analytics](http://spacetimeanalytics.com) (60% part time, since Mai/2016)
+### [STA - Spacetime Analytics](http://spacetimeanalytics.com) (part time, may/2016 - jun/2018)
 Machine-learning-based products and services for decision making.
 
 **Chief Architect, Platforms**: STA uses artificial intelligence, geoprocessing and data science to solve hard problems that traditional IT companies cannot.
 Like, use historical data for climate and satellite pictures to predict how much sugar cane will be obtained in the next crop.
-I did learn a little bit of machine learning, data science and statistics, but my main work here is to build the platforms where complex, computational-intensive alghorithms run, and also provide web-interfaces where clients can get the results they need.
+I did learn a little bit of machine learning, data science and statistics, but my main work here was to build the platforms where complex, computational-intensive alghorithms run, and also provide web-interfaces where clients can get the results they need.
 
-### [Lance Ótimo](http://lanceotimo.com) (20% part-time, since Jun/2015)
+### [Lance Ótimo](http://lanceotimo.com) (part-time, jun/2015 - dec/2019)
 Bid management platform for Google AdWords advertisers
 
-**CTO/Developer**: My friend and now associate Rafael was already helping clients with Google Adwords optimization and, at first, using excel spreadsheets was fine.
+**CTO/Developer**: My friend and associate Rafael was already helping clients with Google Adwords optimization and, at first, using excel spreadsheets was fine.
 He anticipated that his business was going to grow and that was when he invited me to help "productizing" his process in the form of a web platform.
 I jumped in, he learned Python and reimplemented all of his spreadsheets in python scripts. I put it all together inside a web application that clients can now use to tweak parameters and get reports that provide marketing insights.
 
