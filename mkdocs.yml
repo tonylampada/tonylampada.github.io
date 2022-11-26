@@ -1,0 +1,40 @@
+site_name: Resume - Tony Calleri França
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: pink
+
+# red, pink, purple, deep purple, indigo, blue, light blue, cyan, teal, green, light green, lime, yellow, amber, orange, deep orange, brown, grey, blue grey, black, white, 
+
+  # palette:
+  #   # Palette toggle for dark mode
+  #   - media: "(prefers-color-scheme: dark)"
+  #     scheme: default
+  #     primary: pink    # Palette toggle for light mode
+  #     toggle:
+  #       icon: material/brightness-7
+  #       name: Switch to light mode
+  #   - media: "(prefers-color-scheme: light)"
+  #     scheme: slate
+  #     primary: pink    # Palette toggle for light mode
+  #     toggle:
+  #       icon: material/brightness-3
+  #       name: Switch to dark mode
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_css:
+  - stylesheets/extra.css
