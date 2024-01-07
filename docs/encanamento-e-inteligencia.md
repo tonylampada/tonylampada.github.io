@@ -22,16 +22,19 @@ Então vamo lá.
 ## 2. Encanamento vs Inteligência: O que eu quero dizer com isso
 
 Encanamento são aquelas partes do código que basicamente levam dados de um lugar pra outro. Por exemplo:
+
 * Um entrypoint que chama um serviço
 * Uma configuração de roteamento
 * Um adapter que fala com uma API externa
 * Um catálogo de componentes de front-end
 
 É código simples, "boring", repetitivo. Mas nem por isso ele é menos importante. Pro projeto de software, esse tipo de código funciona como: 
+
 * um esqueleto - que define a forma e a estrutura do "organismo"
 * um sistema circulatório - canais por onde os dados fluem, conectores que unem diferentes módulos
 
 **Inteligência** são aquelas partes do código onde fica a lógica de negócio, as tomadas de decisão, as regras específicas ao domínio de aplicação. É o núcleo que confere propósito ao sistema. Por exemplo:
+
 * A implementação das regras de negócio em um backend
 * Componentes interativos de frontend
 * "Stores" de estado reativo pra frontend (típico de apps React ou Vue.js)
@@ -52,6 +55,7 @@ Repare que isso é "um" jeito – não necessariamente "o" jeito – de aplicar 
 A camada da Superfície é o ponto de contato inicial no backend. São os "entry-points". Ela lida com as requisições externas chama uma regra de negócio e manda a resposta no formato adequado. Puro "Encanamento". O foco é  direcionar as solicitações para os serviços corretos.
 
 Responsabilidades:
+
 * Saber qual método de negócio chamar.
 * Validação básica de dados de entrada.
 * Implementação de segurança.
@@ -64,11 +68,13 @@ A Superfície não deve conter lógica de negócios. Os métodos dessa camada no
 Os Serviços são o coração da "Inteligência" no backend. Esta camada contém a lógica de negócios essencial e é responsável por executar as operações centrais do sistema.
 
 Responsabilidades:
+
 * Execução da lógica de negócios principal.
 * Tomada de decisões com base nos dados fornecidos.
 * Interagir com outras partes do sistema para realizar tarefas.
 
 Os serviços devem ser preferencialmente stateless e focados na execução de tarefas específicas. Serviços: 
+
 * Confiam na camada de Superfície para a entrega de dados consistentes e confiáveis. 
 * Dependem de Adapters para tomar ações que têm efeitos no "mundo externo".
 
@@ -79,6 +85,7 @@ Serviços não devem se incomodar com os detalhes de como falar com um banco de 
 Os Adapters são a outra ponta do "Encanamento". Eles servem como intermediários entre os Serviços e os recursos externos ou internos do sistema, como bancos de dados, sistemas de mensageria ou APIs de terceiros.
 
 Responsabilidades:
+
 * Conexão com bancos de dados e execução de consultas.
 * Comunicação com APIs externas.
 * Transformação de dados entre formatos esperados pelos Serviços e formatos externos.
@@ -136,6 +143,7 @@ app.post('/api/login', async (req, res) => {
 Isso aí é o "mau exemplo" do encanamento (tratamento da requisição HTTP, acesso ao BD) misturado com a inteligência (a regra de negócio que diz que "você só passa daqui com a senha correta")
 
 Olha só o monte de problema aqui:
+
 * Você vai mesmo querer ficar logando console.log("status=blah") em todo request handler?
 * E esse try-catch gigante, também?
 * Não tem a menor chance de você conseguir reusar essa lógica de negócio de autenticação sem duplicar código.
