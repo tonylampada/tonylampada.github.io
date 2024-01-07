@@ -3,6 +3,7 @@
 ## 1. Introdução
 
 À medida que eu fui ganhando experiência construindo software, percebi uma distinção fundamental entre dois tipos código, que, na minha cabeça, eu chamo de: 
+
 * código de "encanamento", vs
 * código de "inteligência". 
 
