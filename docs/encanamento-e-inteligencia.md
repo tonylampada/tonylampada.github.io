@@ -21,7 +21,7 @@ Então vamo lá.
 
 ## 2. Encanamento vs Inteligência: O que eu quero dizer com isso
 
-Encanamento são aquelas partes do código que basicamente levam dados de um lugar pra outro. Por exemplo:
+**Encanamento** são aquelas partes do código que basicamente levam dados de um lugar pra outro. Por exemplo:
 
 * Um entrypoint que chama um serviço
 * Uma configuração de roteamento
