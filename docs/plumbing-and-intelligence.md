@@ -44,6 +44,9 @@ These pieces of code are the organs of the system: the heart, the lungs, the int
 Each organ has a different and specific function and particular rules about how it operates. 
 It's through the action of these organs that we implement the purpose of the system.
 
+![image](https://github.com/tonylampada/tonylampada.github.io/assets/218821/6d507818-c271-4915-b1b5-44cd40159086)
+(Here's how DALL-E sees this. That's a weird place for the heart, but it gets the job done)
+
 Well, that's the general idea, but it might still be too abstract. 
 So, I'm going to give an example to materialize how we apply this in a backend.
 
@@ -111,12 +114,11 @@ Responsibilities:
 
 Adapters isolate the complexity of external integrations, allowing Services to remain focused on business logic.
 
-## 4. Falar é fácil. Mostra o código aí
+## 4. Talk is cheap. Show me the code
 
-Aqui um exemplo de como isso fica numa aplicação em node/express com firebase.
+Here's an example of how this works in a Node/Express application with Firebase.
 
-Vamos olhar primeiro pro "jeito ruim". O exemplo aqui é um endpoint de autenticação com login e senha que tenta dar match no banco com um hash da senha, e devolve um token secreto temporário associado ao usuario.
-
+Let's first look at the "wrong way". The example here is an authentication endpoint with login and password that tries to match it in the database with a password hash, and then returns a temporary secret token associated with the user.
 
 ```javascript
 //no layers. Plumbing + intelligence blended and scrambled together
@@ -158,20 +160,20 @@ app.post('/api/login', async (req, res) => {
 });
 ```
 
-Isso aí é o "mau exemplo" do encanamento (tratamento da requisição HTTP, acesso ao BD) misturado com a inteligência (a regra de negócio que diz que "você só passa daqui com a senha correta")
+This here is the "bad example" of **plumbing** (handling the HTTP request, accessing the DB) mixed with **intelligence** (the business rule that says "you shall only pass with the correct password").
 
-Olha só o monte de problema aqui:
+Just look at the multitude of problems here:
 
-* Você vai mesmo querer ficar logando console.log("status=blah") em todo request handler?
-* E esse try-catch gigante, também?
-* Não tem a menor chance de você conseguir reusar essa lógica de negócio de autenticação sem duplicar código.
-* O conhecimento de como acessar o banco de dados também vai ficar espalhado em tudo que é request handler.
+* Do you really want to be logging console.log("status=blah") in every request handler?
+* What about this huge try-catch block, too?
+* There's no way you can reuse this authentication business logic without duplicating code.
+* Knowledge of how to access the database will also be scattered across every request handler.
 
-Enfim. Eu não gosto disso aí não. É o tipo de código que é até rápido de criar, mas que dificulta o reuso, dificulta o DRY e é lento de mudar à medida que a aplicação cresce.
+In short, I don't like this. It's the kind of code that might be **quick to create**, but it hinders reuse, violates the DRY principle, and is **slow to change** as the application grows.
 
-Eu mudaria isso da seguinte forma:
+Here's how I would refactor it:
 
-**Camada 1 - Request handler (encanamento)**
+**Layer 1 - Request handler (plumbing)**
 
 ```javascript
 // surface: handling http requests for login
@@ -207,9 +209,9 @@ async function reqLogin(req, res){
    }
 }
 ```
-Lido com request e response. A lógica pertence ao serviço. O serviço nem sabe o que é request, response, ou status code. Observabilidade implementada em middlewares.
+Here I'm concerned with request and response. The logic belongs to the service. The service does not even know what request, response, or status code is. Observability implemented in middlewares.
 
-**Camada 2 - authenticationService (inteligência)**
+**Layer 2 - authenticationService (intelligence)**
 
 ```javascript
 // authenticationService
@@ -239,9 +241,9 @@ module.exports = {
    getUserByToken
 };
 ```
-Conheço a regra pra autenticar o usuario. Orquestro diferentes adapters pra implementar tarefas mais baixo nível.
+I know the rule to authenticate the user. I orchestrate different adapters to implement lower-level tasks.
 
-**Camada 3 - databaseAdapter (encanamento)**
+**Layer 3 - databaseAdapter (plumbing)**
 
 ```javascript
 // databaseAdapter.
@@ -281,7 +283,7 @@ module.exports = {
    filters: filters
 };
 ```
-Sei falar com o firestore (pra que serviços não precisem saber). "admin.firestore()" não é chamado em nenhum outro lugar. Serviços não se incomodam em saber COMO falar com o banco de dados (ou storage, ou cache, ou APIs externas). Então quando essas coisas mudam, não é doloroso e ninguém precisa arrancar o resto dos cabelos.
+I know how to talk with Firestore (so that services don't need to). 'admin.firestore()' is not called anywhere else. Services do not bother knowing HOW to talk with the database (or storage, or cache, or external APIs). So when these things change, it's not painful and nobody needs to pull their hair out.
 
-É isso. Espero que tenha achado essas idéias úteis. 
-Até a próxima 🙂
+That's it. I hope you found these ideas helpful.
+See you next time 🙂
