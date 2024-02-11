@@ -115,3 +115,34 @@ Grow up and have some love and respect for it! 🙂. That "bad" codebase keeps t
 Having fallen into those traps myself, all the times I did, I later realized that it wasn't the code that was bad. 
 It was **I that was bad** at refactoring! 😬
 
+## Good architecture - how to create it
+
+So, back at the million dollar question, here's an attempt to answer it:
+
+You do two things.
+
+### 1. Set the Culture
+
+The first, most important thing (like, say, 80% importance), is to: **cultivate a good engineering culture**. As team members we should agree that **we all** care deeply about ~our planet~ the quality of our codebase and will do our best to get rid of ~baobabs~ high cognitive load and tech debt. Leaders should send strong messages about the importance of good architecture and how it is aligned with business and professional success.
+
+### 2. Set the Standards
+
+If we have #1, everyone kinda wants the same things, all that's left is "just work. 
+We gotta **define what we mean** by good/bad architecture. 
+Think about generic guidelines that will have a tendency to reduce cognitive load and keep tech debt at bay.  
+You can see further on giant's shoulders: 
+[DRY](https://thevaluable.dev/dry-principle-cost-benefit-example/), 
+[KISS](https://blog.codinghorror.com/kiss-and-yagni/), 
+[YAGNI](https://blog.codinghorror.com/kiss-and-yagni/), 
+[The 12 factors](https://12factor.net/), 
+[Low coupling / high cohesion](https://stackoverflow.com/a/39988/8854363), 
+are all ideas and frameworks you can and should pick and adapt to your context.
+
+Then write it down, give some examples. 
+Cultivate a set of "living documents" that is continuously consulted and updated with new standards we want to implement, antipatterns we want to avoid, etc. 
+That will serve as a guide to orient team members to gradually improve code quality whenever they touch it. 
+Team members can reference it in code review conversations, etc.
+
+Those two things reinforce each other. 
+It's like #1 we want the same things and #2 we speak the same language, like a tribe! 
+You need #1 to start the spark and then then you need #2 to fuel the fire and keep it burning. 
