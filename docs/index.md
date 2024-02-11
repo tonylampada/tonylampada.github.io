@@ -51,7 +51,7 @@ Last but not least, I'm a husband and father of an awesome couple of boys.
 
 ### 4. What do I like
 
-I believe software is **a form of art** and I care a lot for the **inner quality** of the software I build. Things like unit testing, good architecture, well-designed APIs matter a lot to me.
+I believe software is **a form of art** and I care a lot for the **inner quality** of the software I build. Things like unit testing, [good architecture](/good-architecture), well-designed APIs matter a lot to me.
 
 I'm passionate about open source, and education in technology.
 
