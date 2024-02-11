@@ -75,9 +75,11 @@ Computer Engineering, graduated in 2003
 
 ### 7. Work Experience
 
-Note: Some jobs below overlap over time, between 2016-2019. That was a period when I was dividing my week days among different clients. 
+#### [Roboflow](https://roboflow.com) (Since Mar/2023)
 
-#### [Buser](https://buser.com.br) (since Dec/2017)
+**Fullstack developer**: //TODO
+
+#### [Buser](https://buser.com.br) (Dec/2017 - Mar/2023)
 Bus travel mobile app. Helping people travel by half the price or with twice the comfort. Changing the landscape of intercity bus travel in Brazil.
 
 **CTO and Principal Engineer**: I was the first person hired by the founders. My mission was to build the first version of Buser's website to sell tickets online. I used Django, Vue.js, AWS, a continuous delivery pipeline with Gitlab. 100% inside my comfort zone. That part was a piece of cake. But the easy part ends there.
