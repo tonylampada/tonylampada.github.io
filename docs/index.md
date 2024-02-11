@@ -77,7 +77,7 @@ Computer Engineering, graduated in 2003
 
 #### [Roboflow](https://roboflow.com) (Since Mar/2023)
 
-**Fullstack developer**: Having left a good legacy of great engineering and a culture of responsibility at Buser, I decided to start a new adventure. 
+**Fullstack developer**: Having left a good legacy of great engineering and a culture of autonomy+responsibility at Buser, I decided to start a new adventure. 
 This new role marks a lot of new beginnings for my career and my life. Jumping with my two feet on the remote work train. Working with an international team, on an international product, using english all the time. Going back to a position that’s a lot more focused on applying and improving my hard skills!
 
 At Roboflow I'm helping to _improve every industry by democratizing computer vision_ by doing what I do best: writing quality software that pushes forward the company's product and work system.
