@@ -59,6 +59,7 @@ I'm passionate about open source, and education in technology.
 
 * [Jarvis](https://github.com/tonylampada/jarvisportal) - Like, GPTExec (below), but as a custom GPT (and it can run commands on any computer, not just your machine). Talk to it to get instructions on how to install the JarvisClient and get it working ;-)
 * [GPTExec](https://github.com/tonylampada/jarvisportal/blob/main/README-gptexec.md) - GPT in your terminal, but with the ability to run commands on it.
+* [Articles](/articles) - Thoughts and ramblings about how to make programming better
 * [Evolutio](https://evolutio.io) - A website with free educational content for anyone who wants to learn to code.
 * [Djangular3](https://github.com/tonylampada/djangular3) - A reusable web-project template using Django and AngularJS (README is in portuguese, but there's a [setup instructions video](https://www.youtube.com/watch?v=okWBei-rK_A&feature=youtu.be) in english as well)
 * [Djavue](https://github.com/tonylampada/djavue2) - Same as above, but with Django and Vue.js (pun intended :P). This served as the foundation on top of which [Buser](https://www.buser.com.br) technology was built. The corresponding [Djavue course on evolutio](https://evolutio.io/curso/djavue) has been used for training developers ever since. 
