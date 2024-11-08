@@ -115,6 +115,20 @@ Grow up and have some love and respect for it! 🙂. That "bad" codebase keeps t
 Having fallen into those traps myself, all the times I did, I later realized that it wasn't the code that was bad. 
 It was **I that was bad** at refactoring! 😬
 
+### 2. The "SHIPSHIPSHIP!" Trap
+
+The rewrite trap is like, the "0 value, 100 quality" end of the spectrum. Put purely technical people in charge of management, and you might fall into it. 
+
+The "SHIPSHIPSHIP" trap is the opposite (and more commonly seen in the wild, maybe if you have super business-oriented product managers with no tech skills driving everyday prioritization).
+
+By demanding a continuous flow of fast deliveries, we risk incentivizing the creation of tech debt that most likely won't get paid. Do that for long enough and trap #1b will start to look attractive!
+
+So, it's a balance. We need to chop trees, and for that we need to sharpen our axes. Spend your whole life sharpening your axe and you never get any tree down. Chop trees all the time and your ax will get dull, which you'll get tired. That's no good either. 
+
+The way to go is to do both: keep chopping trees, and always be making sure you have a sharp axe. For software, this means that: we set the quality standards (which is usually higher than what we currently have), then keep moving forward and upward. 
+
+Once we reach it, we keep moving forward and oscillating around it. The ground might move beneath our feet and we might need to change that target up or down, and that is ok too (example: the Facebook motto that went from "move fast and break things" to "move fast with stable infra").
+
 ## Good architecture - how to create it
 
 So, back at the million dollar question, here's an attempt to answer it:
